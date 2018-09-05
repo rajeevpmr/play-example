@@ -30,6 +30,10 @@ There are several demonstration files available in this template.
 
   Shows how to inject a component into a controller and use the component when
   handling requests.
+  
+## - ShopController.java:
+
+  Shows how to use CRUD operations as a service
 
 ## Components
 
@@ -45,6 +49,16 @@ There are several demonstration files available in this template.
 
   An example of a component that starts when the application starts and stops
   when the application stops.
+  
+## - Shop and MyShop
+  An interface and implementation to explain how to implement CRUD operations
+  
+## - Item
+  A small domain model to represent example item
+
+## - CreateItem 
+  To demonstrate how to serialize and deserialize JSON 
+
 
 ## Filters
 
